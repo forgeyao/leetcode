@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func reverse(x int) int {
 	v := make([]int, 0)
 	tmp := x
@@ -46,4 +48,12 @@ func reverse2(x int) int {
 		tmp = tmp / 10
 	}
 	return ret
+}
+
+func main() {
+	var i int
+	fmt.Scanf("%d", &i)
+	fmt.Println("input:", i)
+
+	fmt.Println("result:", reverse2(i))
 }

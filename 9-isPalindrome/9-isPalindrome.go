@@ -61,3 +61,11 @@ func isPalindrome(x int) bool {
 	}
 	return true
 }
+
+func main() {
+	var i int
+	fmt.Scanf("%d", &i)
+	fmt.Println("input:", i)
+
+	fmt.Println("result:", isPalindrome(i))
+}

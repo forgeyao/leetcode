@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 type ListNode struct {
 	Val  int
 	Next *ListNode
@@ -35,4 +37,28 @@ func hasCycle(head *ListNode) bool {
 		}
 	}
 	return false
+}
+
+func main() {
+	forth := new(ListNode)
+	forth.Val = -4
+	forth.Next = nil
+
+	third := new(ListNode)
+	third.Val = 0
+	third.Next = forth
+
+	second := new(ListNode)
+	second.Val = 2
+	second.Next = third
+
+	head := new(ListNode)
+	head.Val = 3
+	head.Next = second
+
+	//second.Next = head
+	//third.Next = second
+	forth.Next = second
+
+	fmt.Println("ret:", hasCycle(head))
 }
