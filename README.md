@@ -15,8 +15,17 @@ LeetCode
 |131|[分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | [Go](./131-partition/131-partition.go)|中等|递归, 动态规划|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[Go](./141-hasCycle/141-hasCycle.go)|简单|双指针|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[Go](./234-isPalindrome/234-isPalindrome.go)|简单||
+|206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)[Go](./206-reverseList/206-reverseList.go)|简单||
 |409|[最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)|[Go](./409-longestPalindrome/409-longestPalindrome.go)|简单||
-|523|[连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[Go](./523-checkSubarraySum/523-checkSubarraySum.go)|中等|前缀和|
+|523|[连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[Go](./523-checkSubarraySum/523-checkSubarraySum.go)|中等|前缀和,哈希表|
 |647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Go](./647-countSubstrings/647-countSubstrings.go)|中等|动态规划||
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[Go](./680-validPalindrome/680-validPalindrome.go)|简单||
 |1332|[删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/)|[Go](./1332-removePalindromeSub/1332-removePalindromeSub.go)|简单||
+
+### SQL
+
+
+| # | Title | Solution | Difficulty | Tag |
+|---| ----- | -------- | ---------- | ---------- |
+|182|[查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/)|[SQL](./182-repeatedEmail/182-repeatedEmail.sql)|简单||
+
