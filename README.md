@@ -13,7 +13,9 @@ LeetCode
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|[Go](./14-longestCommonPrefix/14-longestCommonPrefix.go)|简单||
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|[Go](./20-isValid/20-isValid.go)|简单|栈|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[Go](./21-mergeTwoLists/21-mergeTwoLists.go)|简单||
-|26|[删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[Go](./26-removeDuplicates/26-removeDuplicates.go)|简单||
+|26|[删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[Go](./26-removeDuplicates/26-removeDuplicates.go)|简单|双指针|
+|27|[移除元素](https://leetcode-cn.com/problems/remove-element/)|[Go](./27/27-removeElement.go)|简单|双指针|
+|28|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[Go](./28/28-strStr.go)|简单|KMP|
 |29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/)|[C++](./29-DivideTwoIntegers/29-DivideTwoIntegers.cpp)|中等||
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[Go](./53-maxSubArray/53-maxSubArray.go)|简单|动态规划,分治,线段树|
 |100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[Go](./100-isSameTree/100-isSameTree.go)|简单|二叉树|
