@@ -17,6 +17,7 @@ LeetCode
 |27|[移除元素](https://leetcode-cn.com/problems/remove-element/)|[Go](./27/27-removeElement.go)|简单|双指针|
 |28|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[Go](./28/28-strStr.go)|简单|KMP|
 |29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/)|[C++](./29-DivideTwoIntegers/29-DivideTwoIntegers.cpp)|中等||
+|35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[Go](./35/35-searchInsert.go)|简单|二分查找|
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[Go](./53-maxSubArray/53-maxSubArray.go)|简单|动态规划,分治,线段树|
 |100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[Go](./100-isSameTree/100-isSameTree.go)|简单|二叉树|
 |104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[Go](./104-maxDepth/104-maxDepth.go)|简单|二叉树|
