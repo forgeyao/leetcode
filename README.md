@@ -19,6 +19,8 @@ LeetCode
 |29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/)|[C++](./29-DivideTwoIntegers/29-DivideTwoIntegers.cpp)|中等||
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[Go](./35/35-searchInsert.go)|简单|二分查找|
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[Go](./53-maxSubArray/53-maxSubArray.go)|简单|动态规划,分治,线段树|
+|58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)|[Go](./58/58-lengthOfLastWord.go)|简单||
+|66|[加一](https://leetcode-cn.com/problems/plus-one/)|[Go](./66/66-plusOne.go)|简单||
 |100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[Go](./100-isSameTree/100-isSameTree.go)|简单|二叉树|
 |104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[Go](./104-maxDepth/104-maxDepth.go)|简单|二叉树|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[Go](./125-isPalindrome/125-isPalindrome.go)|简单||
