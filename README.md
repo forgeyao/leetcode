@@ -24,6 +24,9 @@ LeetCode
 |67|[二进制求和](https://leetcode-cn.com/problems/add-binary/)|[Go](./67/67-addBinary.go)|简单||
 |69|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/)|[Go](./69/69-mySqrt.go)|简单|二分查找, 牛顿迭代法|
 |70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[Go](./70/70-climbStairs.go)|简单|斐波拉契数, 动态规划|
+|83|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[Go](./83/83-deleteDuplicates.go)|简单||
+|88|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|[Go](./88/88-merge.go)|简单|双指针|
+|94|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[Go](./94/94-inorderTraversal.go)|简单||
 |100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[Go](./100-isSameTree/100-isSameTree.go)|简单|二叉树|
 |104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[Go](./104-maxDepth/104-maxDepth.go)|简单|二叉树|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[Go](./125-isPalindrome/125-isPalindrome.go)|简单||
