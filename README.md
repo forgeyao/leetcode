@@ -12,7 +12,7 @@ LeetCode
 |13|[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)|[Go](./13-romanToInt/13-romanToInt.go)|简单||
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|[Go](./14-longestCommonPrefix/14-longestCommonPrefix.go)|简单||
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|[Go](./20-isValid/20-isValid.go)|简单|栈|
-|21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[Go](./21-mergeTwoLists/21-mergeTwoLists.go)|简单||
+|21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[Go](./21-mergeTwoLists/21-mergeTwoLists.go)|简单|链表|
 |26|[删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[Go](./26-removeDuplicates/26-removeDuplicates.go)|简单|双指针|
 |27|[移除元素](https://leetcode-cn.com/problems/remove-element/)|[Go](./27/27-removeElement.go)|简单|双指针|
 |28|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[Go](./28/28-strStr.go)|简单|KMP|
@@ -24,17 +24,18 @@ LeetCode
 |67|[二进制求和](https://leetcode-cn.com/problems/add-binary/)|[Go](./67/67-addBinary.go)|简单||
 |69|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/)|[Go](./69/69-mySqrt.go)|简单|二分查找, 牛顿迭代法|
 |70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[Go](./70/70-climbStairs.go)|简单|斐波拉契数, 动态规划|
-|83|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[Go](./83/83-deleteDuplicates.go)|简单||
+|83|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[Go](./83/83-deleteDuplicates.go)|简单|链表|
 |88|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|[Go](./88/88-merge.go)|简单|双指针|
 |94|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[Go](./94/94-inorderTraversal.go)|简单|二叉树, Morris 遍历算法|
 |100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[Go](./100-isSameTree/100-isSameTree.go)|简单|二叉树|
 |101|[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)|[Go](./101/101-isSymmetric.go)|简单|二叉树|
 |104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[Go](./104-maxDepth/104-maxDepth.go)|简单|二叉树|
+|108|[将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)|[Go](./108/108-sortedArrayToBST.go)|简单|二叉搜索树|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[Go](./125-isPalindrome/125-isPalindrome.go)|简单||
 |131|[分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | [Go](./131-partition/131-partition.go)|中等|递归, 动态规划|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[Go](./141-hasCycle/141-hasCycle.go)|简单|双指针|
-|234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[Go](./234-isPalindrome/234-isPalindrome.go)|简单||
-|206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[Go](./206-reverseList/206-reverseList.go)|简单||
+|234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[Go](./234-isPalindrome/234-isPalindrome.go)|简单|链表|
+|206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[Go](./206-reverseList/206-reverseList.go)|简单|链表|
 |409|[最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)|[Go](./409-longestPalindrome/409-longestPalindrome.go)|简单||
 |523|[连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[Go](./523-checkSubarraySum/523-checkSubarraySum.go)|中等|前缀和,哈希表|
 |647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Go](./647-countSubstrings/647-countSubstrings.go)|中等|动态规划||
