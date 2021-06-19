@@ -35,6 +35,8 @@ LeetCode
 |111|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|[Go](./111/111-minDepth.go)|简单|二叉树|
 |112|[路径总和](https://leetcode-cn.com/problems/path-sum/)|[Go](./112/112-hasPathSum.go)|简单|二叉树|
 |118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)|[Go](./118/118-generate.go)|简单||
+|119|[杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)|[Go](./119/119-getRow.go)|简单||
+|121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[Go](./121/121-maxProfit.go)|简单||
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[Go](./125-isPalindrome/125-isPalindrome.go)|简单||
 |131|[分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | [Go](./131-partition/131-partition.go)|中等|递归, 动态规划|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[Go](./141-hasCycle/141-hasCycle.go)|简单|双指针|
