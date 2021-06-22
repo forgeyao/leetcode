@@ -3,7 +3,6 @@ LeetCode
 
 ### LeetCode Algorithm
 
-
 | # | Title | Solution | Difficulty | Tag |
 |---| ----- | -------- | ---------- | ---------- |
 |5|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[Go](./5-longestPalindrome/5-longestPalindrome.go)|中等|动态规划|
@@ -49,6 +48,12 @@ LeetCode
 |647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Go](./647-countSubstrings/647-countSubstrings.go)|中等|动态规划||
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[Go](./680-validPalindrome/680-validPalindrome.go)|简单||
 |1332|[删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/)|[Go](./1332-removePalindromeSub/1332-removePalindromeSub.go)|简单||
+
+### 剑指 Offer
+
+| # | Title | Solution | Difficulty | Tag |
+|---| ----- | -------- | ---------- | ---------- |
+|38|[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|[Go](./offer/38/38-permutation.go)|中等|递归|
 
 ### SQL
 
