@@ -1,2 +1,0 @@
-target:
-	go run *.go
