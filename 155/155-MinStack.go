@@ -4,39 +4,29 @@ package main
 import "fmt"
 
 type MinStack struct {
-	Stack []int
-	Min   int
+	Stack  []int
+	MinIdx int // 题目只要求常数时间获取最小值,存一个最小值(或下标)就行(官方题解是存最小栈，所有操作都常数时间)
 }
 
 /** initialize your data structure here. */
 func Constructor() MinStack {
-	var stack MinStack
-	stack.Stack = make([]int, 0)
-	return stack
+	return MinStack{Stack: []int{}, MinIdx: 0}
 }
 
 func (this *MinStack) Push(val int) {
 	this.Stack = append(this.Stack, val)
-	if len(this.Stack) == 1 || (len(this.Stack) > 1 && val < this.Min) {
-		this.Min = val
+	if len(this.Stack) == 1 || (len(this.Stack) > 1 && val < this.Stack[this.MinIdx]) {
+		this.MinIdx = len(this.Stack) - 1
 	}
 }
 
 func (this *MinStack) Pop() {
 	l := len(this.Stack)
-	if l == 0 {
-		return
-	}
-	if this.Min == this.Stack[l-1] {
-		if l == 1 {
-			this.Min = 0
-		} else {
-			this.Min = this.Stack[0]
-
-			for i := 0; i < l-1; i++ {
-				if this.Stack[i] < this.Min {
-					this.Min = this.Stack[i]
-				}
+	if this.MinIdx == l-1 {
+		this.MinIdx = 0
+		for i := 1; i < l-1; i++ {
+			if this.Stack[i] < this.Stack[this.MinIdx] {
+				this.MinIdx = i
 			}
 		}
 	}
@@ -44,15 +34,11 @@ func (this *MinStack) Pop() {
 }
 
 func (this *MinStack) Top() int {
-	var ret int
-	if len(this.Stack) > 0 {
-		ret = this.Stack[len(this.Stack)-1]
-	}
-	return ret
+	return this.Stack[len(this.Stack)-1]
 }
 
 func (this *MinStack) GetMin() int {
-	return this.Min
+	return this.Stack[this.MinIdx]
 }
 
 /**
