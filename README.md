@@ -66,5 +66,6 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Tag |
 |---| ----- | -------- | ---------- | ---------- |
+|176|[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/)|[SQL](./176/176.sql)|简单|临时表,null|
 |182|[查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/)|[SQL](./182-repeatedEmail/182-repeatedEmail.sql)|简单||
 
