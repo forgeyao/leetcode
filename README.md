@@ -49,6 +49,7 @@ LeetCode
 |169|[多数元素](https://leetcode-cn.com/problems/majority-element/)|[Go](./169/169-majorityElement.go)|简单|哈希,投票算法|
 |202|[快乐数](https://leetcode-cn.com/problems/happy-number/)|[Go](./202/202-isHappy.go)|简单|哈希,快慢指针,数学|
 |217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)|[Go](./217/217-containsDuplicate.go)|简单|哈希表|
+|219|[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[Go](./219/219-containsNearbyDuplicate.go)|简单|哈希|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[Go](./234-isPalindrome/234-isPalindrome.go)|简单|链表|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[Go](./206-reverseList/206-reverseList.go)|简单|链表|
 |409|[最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)|[Go](./409-longestPalindrome/409-longestPalindrome.go)|简单||
