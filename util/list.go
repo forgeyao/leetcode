@@ -1,5 +1,7 @@
 package util
 
+import "fmt"
+
 type ListNode struct {
 	Val  int
 	Next *ListNode
@@ -22,4 +24,11 @@ func CreateListNode(n []int) *ListNode {
 		}
 	}
 	return head
+}
+
+func PrintList(head *ListNode) {
+	for h := head; h != nil; h = h.Next {
+		fmt.Print(h.Val, " ")
+	}
+	fmt.Println()
 }
