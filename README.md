@@ -59,6 +59,7 @@ LeetCode
 |647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Go](./647-countSubstrings/647-countSubstrings.go)|中等|动态规划||
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[Go](./680-validPalindrome/680-validPalindrome.go)|简单||
 |1332|[删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/)|[Go](./1332-removePalindromeSub/1332-removePalindromeSub.go)|简单||
+|1380|[矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/)|[Go](./1380/1380-luckyNumbers.go)|简单|矩阵, 哈希|
 
 ### 剑指 Offer
 
