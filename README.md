@@ -60,6 +60,7 @@ LeetCode
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[Go](./680-validPalindrome/680-validPalindrome.go)|简单||
 |1332|[删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/)|[Go](./1332-removePalindromeSub/1332-removePalindromeSub.go)|简单||
 |1380|[矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/)|[Go](./1380/1380-luckyNumbers.go)|简单|矩阵, 哈希|
+|1736|[替换隐藏数字得到的最晚时间](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/)|[Go](./1736/1736-maximumTime.go)|简单||
 
 ### 剑指 Offer
 
@@ -68,6 +69,12 @@ LeetCode
 |15|[二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)|[Go](./offer/15/15-hammingWeight.go)|简单|位运算|
 |38|[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|[Go](./offer/38/38-permutation.go)|中等|递归|
 |42|[连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|[Go](./offer/42/42-maxSubArray.go)|简单|前缀和,动态规划|
+
+### 面试题
+
+| # | Title | Solution | Difficulty | Tag |
+|---| ----- | -------- | ---------- | ---------- |
+|04.06|[后继者](https://leetcode-cn.com/problems/successor-lcci/)|[Go](./interview/0406-inorderSuccessor.go)|中等|二叉树|
 
 ### SQL
 
