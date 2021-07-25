@@ -50,7 +50,7 @@ LeetCode
 |202|[快乐数](https://leetcode-cn.com/problems/happy-number/)|[Go](./202/202-isHappy.go)|简单|哈希,快慢指针,数学|
 |203|[移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[Go](./203/203-removeElements.go)|简单|链表|
 |217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)|[Go](./217/217-containsDuplicate.go)|简单|哈希表|
-|219|[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[Go](./219/219-containsNearbyDuplicate.go)|简单|哈希|
+|219|[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[Go](./219/219-containsNearbyDuplicate.go)|简单|哈希表|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[Go](./234-isPalindrome/234-isPalindrome.go)|简单|链表|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[Go](./206-reverseList/206-reverseList.go)|简单|链表|
 |409|[最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)|[Go](./409-longestPalindrome/409-longestPalindrome.go)|简单||
@@ -59,8 +59,10 @@ LeetCode
 |647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Go](./647-countSubstrings/647-countSubstrings.go)|中等|动态规划||
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[Go](./680-validPalindrome/680-validPalindrome.go)|简单||
 |1332|[删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/)|[Go](./1332-removePalindromeSub/1332-removePalindromeSub.go)|简单||
-|1380|[矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/)|[Go](./1380/1380-luckyNumbers.go)|简单|矩阵, 哈希|
+|1380|[矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/)|[Go](./1380/1380-luckyNumbers.go)|简单|矩阵, 哈希表|
+|1436|[旅行终点站](https://leetcode-cn.com/problems/destination-city/)|[Go](./1436/1436-destCity.go)|简单|哈希表|
 |1736|[替换隐藏数字得到的最晚时间](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/)|[Go](./1736/1736-maximumTime.go)|简单||
+|1743|[从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs/)|[Go](./1743/1743-restoreArray.go)|中等|哈希表|
 
 ### 剑指 Offer
 
