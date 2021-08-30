@@ -16,10 +16,9 @@ impl Solution {
     }
 }
 
-pub struct Solution {
-}
+pub struct Solution {}
 
 fn main() {
-    let num = vec![1,2,3];
+    let num = vec![1, 2, 3];
     println!("ret:{}", Solution::min_moves(num));
 }
