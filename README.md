@@ -54,6 +54,7 @@ LeetCode
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[Go](./234-isPalindrome/234-isPalindrome.go)|简单|链表|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[Go](./206-reverseList/206-reverseList.go)|简单|链表|
 |409|[最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)|[Go](./409-longestPalindrome/409-longestPalindrome.go)|简单||
+|441|[排列硬币](https://leetcode-cn.com/problems/arranging-coins/)|[Go](./441-arrangingCoins/go/441-arrangingCoins.go),[Rust](./441-arrangingCoins/rust/441-arrangingCoins.rs)|简单||
 |453|[最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|[Go](./453/453-minMoves.go),[Rust](./rust/453/453-min_moves.rs)|简单||
 |523|[连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[Go](./523-checkSubarraySum/523-checkSubarraySum.go)|中等|前缀和,哈希表|
 |598|[范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/)|[Go](./598/598-maxCount.go)|简单||
