@@ -67,6 +67,7 @@ LeetCode
 |1436|[旅行终点站](https://leetcode-cn.com/problems/destination-city/)|[Go](./1436/1436-destCity.go)|简单|哈希表|
 |1736|[替换隐藏数字得到的最晚时间](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/)|[Go](./1736/1736-maximumTime.go)|简单||
 |1743|[从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs/)|[Go](./1743/1743-restoreArray.go)|中等|哈希表|
+|1816|[截断句子](https://leetcode-cn.com/problems/truncate-sentence/)|[Go](./1816-truncateSentence/go/1816-truncateSentence.go)|简单|
 
 ### 剑指 Offer
 
