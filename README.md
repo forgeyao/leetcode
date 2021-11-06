@@ -57,6 +57,8 @@ LeetCode
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[Go](./234-isPalindrome/234-isPalindrome.go)|简单|链表|
 |240|[搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|[Go](./240-searchMatrix/go/240-searchMatrix.go)|中等|查找|
 |260|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[Go](./260-singleNumber/go/260-singleNumber.go)|中等|位运算|
+|268|[丢失的数字](https://leetcode-cn.com/problems/missing-number/)|[Go](./268-missingNumber/go/268-missingNumber.go)|简单|数学|
+|367|[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)|[Go](./367-isPerfectSquare/go/367-isPerfectSquare.go)|简单|二分查找|
 |409|[最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)|[Go](./409-longestPalindrome/409-longestPalindrome.go)|简单||
 |441|[排列硬币](https://leetcode-cn.com/problems/arranging-coins/)|[Go](./441-arrangingCoins/go/441-arrangingCoins.go),[Rust](./441-arrangingCoins/rust/441-arrangingCoins.rs)|简单||
 |453|[最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|[Go](./453/453-minMoves.go),[Rust](./rust/453/453-min_moves.rs)|简单||
