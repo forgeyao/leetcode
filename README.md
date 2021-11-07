@@ -86,6 +86,7 @@ LeetCode
 |15|[二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)|[Go](./offer/15/15-hammingWeight.go)|简单|位运算|
 |38|[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|[Go](./offer/38/38-permutation.go)|中等|递归|
 |42|[连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|[Go](./offer/42/42-maxSubArray.go)|简单|前缀和,动态规划|
+|57|[值和下标之差都在给定的范围内](https://leetcode-cn.com/problems/7WqeDu/)|[Go](./offer/57/57-containsNearbyAlmostDuplicate.go)|中等|哈希表|
 
 ### 面试题
 
