@@ -65,6 +65,7 @@ LeetCode
 |476|[数字的补数](https://leetcode-cn.com/problems/number-complement/)|[Go](./476-findComplement/go/476-findComplement.go)|简单|位运算|
 |492|[构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/)|[Go](./492-constructRectangle/go/492-constructRectangle.go)|简单|数学|
 |496|[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)|[Go](./496-nextGreaterElement/go/496-nextGreaterElement.go)|简单|单向栈, 哈希表|
+|520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/)|[Go](./520-detectCapitalUse/520-detectCapitalUse.go)|简单||
 |523|[连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[Go](./523-checkSubarraySum/523-checkSubarraySum.go)|中等|前缀和,哈希表|
 |598|[范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/)|[Go](./598/598-maxCount.go)|简单||
 |647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Go](./647-countSubstrings/647-countSubstrings.go)|中等|动态规划||
