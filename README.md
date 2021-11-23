@@ -71,6 +71,7 @@ LeetCode
 |647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Go](./647-countSubstrings/647-countSubstrings.go)|中等|动态规划||
 |677|[键值映射](https://leetcode-cn.com/problems/map-sum-pairs/)|[Go](./677-MapSum/go/677-MapSum/.go)|中等|哈希表|
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[Go](./680-validPalindrome/680-validPalindrome.go)|简单||
+|859|[亲密字符串](https://leetcode-cn.com/problems/buddy-strings/)|[Go](./859-buddyStrings/go/859-buddyStrings.go)|简单||
 |1313|[解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/)|[Go](./1313-decompressRLElist/go/1313-decompressRLElist.go),[Rust](./1313-decompressRLElist/rust/1313-decompressRLElist.rs)|简单||
 |1332|[删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/)|[Go](./1332-removePalindromeSub/1332-removePalindromeSub.go)|简单||
 |1337|[矩阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/)|[Go](./1337/1337-kWeakestRows.go)|简单||
