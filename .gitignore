@@ -1,3 +1,4 @@
 makefile
 *.swp
 *.swo
+.DS_Store
