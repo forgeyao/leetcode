@@ -73,6 +73,7 @@ LeetCode
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[Go](./680-validPalindrome/680-validPalindrome.go)|简单||
 |794|[有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/)|[Go](./794-validTicTacToe/go/794-validTicTacToe.go)|中等||
 |859|[亲密字符串](https://leetcode-cn.com/problems/buddy-strings/)|[Go](./859-buddyStrings/go/859-buddyStrings.go)|简单||
+|1078|[Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram/)|[Go](./1078-findOcurrences/go/1078-findOcurrences.go)|简单||
 |1313|[解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/)|[Go](./1313-decompressRLElist/go/1313-decompressRLElist.go),[Rust](./1313-decompressRLElist/rust/1313-decompressRLElist.rs)|简单||
 |1332|[删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/)|[Go](./1332-removePalindromeSub/1332-removePalindromeSub.go)|简单||
 |1337|[矩阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/)|[Go](./1337/1337-kWeakestRows.go)|简单||
@@ -82,6 +83,7 @@ LeetCode
 |1743|[从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs/)|[Go](./1743/1743-restoreArray.go)|中等|哈希表|
 |1812|[判断国际象棋棋盘中一个格子的颜色](https://leetcode-cn.com/problems/determine-color-of-a-chessboard-square/)|[Go](./1812-squareIsWhite/go/1812-squareIsWhite.go)|简单||
 |1816|[截断句子](https://leetcode-cn.com/problems/truncate-sentence/)|[Go](./1816-truncateSentence/go/1816-truncateSentence.go)|简单|
+|2028|[找出缺失的观测数据](https://leetcode-cn.com/problems/find-missing-observations/)|[Go](./2028-missingRolls/go/2028-missingRolls.go)|中等||
 
 ### 剑指 Offer
 
