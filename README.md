@@ -59,6 +59,7 @@ LeetCode
 |260|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[Go](./260-singleNumber/go/260-singleNumber.go)|中等|位运算|
 |268|[丢失的数字](https://leetcode-cn.com/problems/missing-number/)|[Go](./268-missingNumber/go/268-missingNumber.go)|简单|数学|
 |367|[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)|[Go](./367-isPerfectSquare/go/367-isPerfectSquare.go)|简单|二分查找|
+|390|[消除游戏](https://leetcode-cn.com/problems/elimination-game/)|[Go](./390-lastRemaining/go/390-lastRemaining.go)|中等|数学, 等差数列|
 |409|[最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)|[Go](./409-longestPalindrome/409-longestPalindrome.go)|简单||
 |441|[排列硬币](https://leetcode-cn.com/problems/arranging-coins/)|[Go](./441-arrangingCoins/go/441-arrangingCoins.go),[Rust](./441-arrangingCoins/rust/441-arrangingCoins.rs)|简单||
 |453|[最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|[Go](./453/453-minMoves.go),[Rust](./rust/453/453-min_moves.rs)|简单||
@@ -95,6 +96,7 @@ LeetCode
 |38|[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|[Go](./offer/38/38-permutation.go)|中等|递归|
 |42|[连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|[Go](./offer/42/42-maxSubArray.go)|简单|前缀和,动态规划|
 |57|[值和下标之差都在给定的范围内](https://leetcode-cn.com/problems/7WqeDu/)|[Go](./offer/57/57-containsNearbyAlmostDuplicate.go)|中等|哈希表|
+|66|[构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)|[Go](./offer/66/66-constructArr.go)|中等|数学|
 
 ### 面试题
 
