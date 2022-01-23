@@ -73,6 +73,7 @@ LeetCode
 |677|[键值映射](https://leetcode-cn.com/problems/map-sum-pairs/)|[Go](./677-MapSum/go/677-MapSum/.go)|中等|哈希表|
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[Go](./680-validPalindrome/680-validPalindrome.go)|简单||
 |794|[有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/)|[Go](./794-validTicTacToe/go/794-validTicTacToe.go)|中等||
+|825|[适龄的朋友](https://leetcode-cn.com/problems/friends-of-appropriate-ages/)|[Go](./825-numFriendRequests/go/825-numFriendRequests.go)|中等|排序,双指针,计数排序,前缀和|
 |859|[亲密字符串](https://leetcode-cn.com/problems/buddy-strings/)|[Go](./859-buddyStrings/go/859-buddyStrings.go)|简单||
 |1078|[Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram/)|[Go](./1078-findOcurrences/go/1078-findOcurrences.go)|简单||
 |1313|[解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/)|[Go](./1313-decompressRLElist/go/1313-decompressRLElist.go),[Rust](./1313-decompressRLElist/rust/1313-decompressRLElist.rs)|简单||
@@ -96,7 +97,7 @@ LeetCode
 |38|[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|[Go](./offer/38/38-permutation.go)|中等|递归|
 |42|[连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|[Go](./offer/42/42-maxSubArray.go)|简单|前缀和,动态规划|
 |57|[值和下标之差都在给定的范围内](https://leetcode-cn.com/problems/7WqeDu/)|[Go](./offer/57/57-containsNearbyAlmostDuplicate.go)|中等|哈希表|
-|66|[构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)|[Go](./offer/66/66-constructArr.go)|中等|数学|
+|66|[构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)|[Go](./offer/66/go/66-constructArr.go)|中等|数学|
 
 ### 面试题
 
