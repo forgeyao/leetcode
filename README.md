@@ -78,6 +78,7 @@ LeetCode
 |1078|[Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram/)|[Go](./1078-findOcurrences/go/1078-findOcurrences.go)|简单||
 |1313|[解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/)|[Go](./1313-decompressRLElist/go/1313-decompressRLElist.go),[Rust](./1313-decompressRLElist/rust/1313-decompressRLElist.rs)|简单||
 |1332|[删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/)|[Go](./1332-removePalindromeSub/1332-removePalindromeSub.go)|简单||
+|1342|[将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Go](./1342-numberOfSteps/go/1342-numberOfSteps.go)|简单|位操作|
 |1337|[矩阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/)|[Go](./1337/1337-kWeakestRows.go)|简单||
 |1380|[矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/)|[Go](./1380/1380-luckyNumbers.go)|简单|矩阵, 哈希表|
 |1436|[旅行终点站](https://leetcode-cn.com/problems/destination-city/)|[Go](./1436/1436-destCity.go)|简单|哈希表|
