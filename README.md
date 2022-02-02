@@ -88,6 +88,7 @@ LeetCode
 |1812|[判断国际象棋棋盘中一个格子的颜色](https://leetcode-cn.com/problems/determine-color-of-a-chessboard-square/)|[Go](./1812-squareIsWhite/go/1812-squareIsWhite.go)|简单||
 |1816|[截断句子](https://leetcode-cn.com/problems/truncate-sentence/)|[Go](./1816-truncateSentence/go/1816-truncateSentence.go)|简单||
 |1995|[统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets/)|[Go](./1995-countQuadruplets/go/1995-countQuadruplets.go)|简单||
+|2000|[反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/)|[Go](./2000-reversePrefix/go/2000-reversePrefix.go)|简单||
 |2022|[将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/)|[Go](./2022-construct2DArray/go/2022-construct2DArray.go)|简单||
 |2028|[找出缺失的观测数据](https://leetcode-cn.com/problems/find-missing-observations/)|[Go](./2028-missingRolls/go/2028-missingRolls.go)|中等||
 |2034|[股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation/)|[Go](./2034-StockPrice/go/2034-StockPrice.go)|中等|哈希表, 优先队列|
