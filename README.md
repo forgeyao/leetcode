@@ -87,6 +87,7 @@ LeetCode
 |1725|[可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[Go](./1725-countGoodRectangles/go/1725-countGoodRectangles.go)|简单||
 |1736|[替换隐藏数字得到的最晚时间](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/)|[Go](./1736/1736-maximumTime.go)|简单||
 |1743|[从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs/)|[Go](./1743/1743-restoreArray.go)|中等|哈希表|
+|1748|[唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/)|[Go](./1748-sumOfUnique/go/1748-sumOfUnique.go)|简单||
 |1763|[最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring/)|[Go](./1763-longestNiceSubstring/go/1763-longestNiceSubstring.go)|简单|分治|
 |1812|[判断国际象棋棋盘中一个格子的颜色](https://leetcode-cn.com/problems/determine-color-of-a-chessboard-square/)|[Go](./1812-squareIsWhite/go/1812-squareIsWhite.go)|简单||
 |1816|[截断句子](https://leetcode-cn.com/problems/truncate-sentence/)|[Go](./1816-truncateSentence/go/1816-truncateSentence.go)|简单||
