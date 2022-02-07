@@ -82,6 +82,7 @@ LeetCode
 |1342|[将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Go](./1342-numberOfSteps/go/1342-numberOfSteps.go)|简单|位操作|
 |1337|[矩阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/)|[Go](./1337/1337-kWeakestRows.go)|简单||
 |1380|[矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/)|[Go](./1380/1380-luckyNumbers.go)|简单|矩阵, 哈希表|
+|1405|[最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string/)|[Go](./1405-longestDiverseString/go/1405-longestDiverseString.go)|中等|贪心, 排序|
 |1436|[旅行终点站](https://leetcode-cn.com/problems/destination-city/)|[Go](./1436/1436-destCity.go)|简单|哈希表|
 |1414|[和为 K 的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[Go](./1414-findMinFibonacciNumbers/go/1414-findMinFibonacciNumbers.go)|中等|贪心|
 |1725|[可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[Go](./1725-countGoodRectangles/go/1725-countGoodRectangles.go)|简单||
