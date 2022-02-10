@@ -86,6 +86,7 @@ LeetCode
 |1405|[最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string/)|[Go](./1405-longestDiverseString/go/1405-longestDiverseString.go)|中等|贪心, 排序|
 |1436|[旅行终点站](https://leetcode-cn.com/problems/destination-city/)|[Go](./1436/1436-destCity.go)|简单|哈希表|
 |1414|[和为 K 的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[Go](./1414-findMinFibonacciNumbers/go/1414-findMinFibonacciNumbers.go)|中等|贪心|
+|1447|[最简分数](https://leetcode-cn.com/problems/simplified-fractions/)|[Go](./1447-simplifiedFractions/go/1447-simplifiedFractions.go)|中等|数学|
 |1725|[可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[Go](./1725-countGoodRectangles/go/1725-countGoodRectangles.go)|简单||
 |1736|[替换隐藏数字得到的最晚时间](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/)|[Go](./1736/1736-maximumTime.go)|简单||
 |1743|[从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs/)|[Go](./1743/1743-restoreArray.go)|中等|哈希表|
