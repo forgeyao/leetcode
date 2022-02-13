@@ -78,6 +78,7 @@ LeetCode
 |859|[亲密字符串](https://leetcode-cn.com/problems/buddy-strings/)|[Go](./859-buddyStrings/go/859-buddyStrings.go)|简单||
 |1020|[飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)|[Go](./1020-numEnclaves/go/1020-numEnclaves.go)|中等|深度优先搜索, 广度优先搜索|
 |1078|[Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram/)|[Go](./1078-findOcurrences/go/1078-findOcurrences.go)|简单||
+|1189|[“气球”的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/)|[Go](./1189-maxNumberOfBalloons/go/1189-maxNumberOfBalloons.go)|简单||
 |1219|[黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/)|[Go](./1219-getMaximumGold/go/1219-getMaximumGold.go)|中等|递归, 回溯|
 |1313|[解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/)|[Go](./1313-decompressRLElist/go/1313-decompressRLElist.go),[Rust](./1313-decompressRLElist/rust/1313-decompressRLElist.rs)|简单||
 |1332|[删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/)|[Go](./1332-removePalindromeSub/1332-removePalindromeSub.go)|简单||
