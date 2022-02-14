@@ -69,6 +69,7 @@ LeetCode
 |496|[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)|[Go](./496-nextGreaterElement/go/496-nextGreaterElement.go)|简单|单向栈, 哈希表|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/)|[Go](./520-detectCapitalUse/520-detectCapitalUse.go)|简单||
 |523|[连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[Go](./523-checkSubarraySum/523-checkSubarraySum.go)|中等|前缀和,哈希表|
+|540|[有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)|[Go](./540-singleNonDuplicate/go/540-singleNonDuplicate.go)|中等|二分法|
 |598|[范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/)|[Go](./598/598-maxCount.go)|简单||
 |647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Go](./647-countSubstrings/647-countSubstrings.go)|中等|动态规划||
 |677|[键值映射](https://leetcode-cn.com/problems/map-sum-pairs/)|[Go](./677-MapSum/go/677-MapSum/.go)|中等|哈希表|
