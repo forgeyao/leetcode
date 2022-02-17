@@ -72,6 +72,7 @@ LeetCode
 |523|[连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[Go](./523-checkSubarraySum/523-checkSubarraySum.go)|中等|前缀和,哈希表|
 |540|[有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)|[Go](./540-singleNonDuplicate/go/540-singleNonDuplicate.go)|中等|二分法|
 |598|[范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/)|[Go](./598/598-maxCount.go)|简单||
+|599|[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)|[Go](./599-findRestaurant/599-findRestaurant.go)|简单|哈希表|
 |647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Go](./647-countSubstrings/647-countSubstrings.go)|中等|动态规划||
 |677|[键值映射](https://leetcode-cn.com/problems/map-sum-pairs/)|[Go](./677-MapSum/go/677-MapSum/.go)|中等|哈希表|
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[Go](./680-validPalindrome/680-validPalindrome.go)|简单||
