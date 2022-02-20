@@ -76,6 +76,7 @@ LeetCode
 |647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[Go](./647-countSubstrings/647-countSubstrings.go)|中等|动态规划||
 |677|[键值映射](https://leetcode-cn.com/problems/map-sum-pairs/)|[Go](./677-MapSum/go/677-MapSum/.go)|中等|哈希表|
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[Go](./680-validPalindrome/680-validPalindrome.go)|简单||
+|717|[1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)|[Go](./717-isOneBitCharacter/717-isOneBitCharacter.go)|简单||
 |794|[有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/)|[Go](./794-validTicTacToe/go/794-validTicTacToe.go)|中等||
 |825|[适龄的朋友](https://leetcode-cn.com/problems/friends-of-appropriate-ages/)|[Go](./825-numFriendRequests/go/825-numFriendRequests.go)|中等|排序,双指针,计数排序,前缀和|
 |859|[亲密字符串](https://leetcode-cn.com/problems/buddy-strings/)|[Go](./859-buddyStrings/go/859-buddyStrings.go)|简单||
@@ -106,6 +107,9 @@ LeetCode
 |2022|[将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/)|[Go](./2022-construct2DArray/go/2022-construct2DArray.go)|简单||
 |2028|[找出缺失的观测数据](https://leetcode-cn.com/problems/find-missing-observations/)|[Go](./2028-missingRolls/go/2028-missingRolls.go)|中等||
 |2034|[股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation/)|[Go](./2034-StockPrice/go/2034-StockPrice.go)|中等|哈希表, 优先队列|
+|5996|[统计数组中相等且可以被整除的数对](https://leetcode-cn.com/problems/count-equal-and-divisible-pairs-in-an-array/)|[Go](./5996/5996-countPairs.go)|简单|比赛|
+|5997|[找到和为给定整数的三个连续整数](https://leetcode-cn.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)|[Go](./5997/5997-sumOfThree.go)|中等|比赛|
+|5998|[拆分成最多数目的偶整数之和](https://leetcode-cn.com/problems/maximum-split-of-positive-even-integers/)|[Go](./5998/5998-maximumEvenSplit.go)|中等|比赛|
 
 ### 剑指 Offer
 
