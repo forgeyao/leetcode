@@ -70,6 +70,7 @@ LeetCode
 |496|[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)|[Go](./496-nextGreaterElement/go/496-nextGreaterElement.go)|简单|单向栈, 哈希表|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/)|[Go](./520-detectCapitalUse/520-detectCapitalUse.go)|简单||
 |523|[连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[Go](./523-checkSubarraySum/523-checkSubarraySum.go)|中等|前缀和,哈希表|
+|537|[复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/)|[Go](./537-complexNumberMultiply/537-complexNumberMultiply.go)|中等||
 |540|[有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)|[Go](./540-singleNonDuplicate/go/540-singleNonDuplicate.go)|中等|二分法|
 |598|[范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/)|[Go](./598/598-maxCount.go)|简单||
 |599|[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)|[Go](./599-findRestaurant/599-findRestaurant.go)|简单|哈希表|
