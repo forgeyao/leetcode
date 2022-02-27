@@ -70,6 +70,7 @@ LeetCode
 |496|[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)|[Go](./496-nextGreaterElement/go/496-nextGreaterElement.go)|简单|单向栈, 哈希表|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/)|[Go](./520-detectCapitalUse/520-detectCapitalUse.go)|简单||
 |523|[连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[Go](./523-checkSubarraySum/523-checkSubarraySum.go)|中等|前缀和,哈希表|
+|535|[最优除法](https://leetcode-cn.com/problems/optimal-division/)|[Go](./535-optimalDivision/535-optimalDivision.go)|中等|数学|
 |537|[复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/)|[Go](./537-complexNumberMultiply/537-complexNumberMultiply.go)|中等||
 |540|[有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)|[Go](./540-singleNonDuplicate/go/540-singleNonDuplicate.go)|中等|二分法|
 |598|[范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/)|[Go](./598/598-maxCount.go)|简单||
@@ -114,7 +115,7 @@ LeetCode
 |5997|[找到和为给定整数的三个连续整数](https://leetcode-cn.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)|[Go](./5997/5997-sumOfThree.go)|中等|比赛|
 |5998|[拆分成最多数目的偶整数之和](https://leetcode-cn.com/problems/maximum-split-of-positive-even-integers/)|[Go](./5998/5998-maximumEvenSplit.go)|中等|比赛|
 |6008|[统计包含给定前缀的字符串](https://leetcode-cn.com/problems/counting-words-with-a-given-prefix/)|[Go](./6008/6008-prefixCount.go)|简单||
-|6009|[使两字符串互为字母异位词的最少步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)|[Go](./6009/)6009-minSteps.go|中等|哈希表|
+|6009|[使两字符串互为字母异位词的最少步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)|[Go](./6009/6009-minSteps.go)|中等|哈希表|
 |6010|[完成旅途的最少时间](https://leetcode-cn.com/problems/minimum-time-to-complete-trips/)|[Go](./6010/6010-minimumTime.go)|中等|二分查找|
 
 ### 剑指 Offer
