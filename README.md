@@ -58,6 +58,7 @@ LeetCode
 |232|[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|[Go](./232-MyQueue/232-MyQueue.go)|简单|栈, 队列|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[Go](./234-isPalindrome/234-isPalindrome.go)|简单|链表|
 |240|[搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|[Go](./240-searchMatrix/go/240-searchMatrix.go)|中等|查找|
+|258|[各位相加](https://leetcode-cn.com/problems/add-digits/)|[Go](./258-addDigits/258-addDigits.go)|简单|数学|
 |260|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[Go](./260-singleNumber/go/260-singleNumber.go)|中等|位运算|
 |268|[丢失的数字](https://leetcode-cn.com/problems/missing-number/)|[Go](./268-missingNumber/go/268-missingNumber.go)|简单|数学|
 |367|[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)|[Go](./367-isPerfectSquare/go/367-isPerfectSquare.go)|简单|二分查找|
