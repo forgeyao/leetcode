@@ -70,6 +70,7 @@ LeetCode
 |492|[构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/)|[Go](./492-constructRectangle/go/492-constructRectangle.go)|简单|数学|
 |496|[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)|[Go](./496-nextGreaterElement/go/496-nextGreaterElement.go)|简单|单向栈, 哈希表|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/)|[Go](./520-detectCapitalUse/520-detectCapitalUse.go)|简单||
+|521|[最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)|[Go](./521-findLUSlength/521-findLUSlength.go)|简单|｜
 |523|[连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)|[Go](./523-checkSubarraySum/523-checkSubarraySum.go)|中等|前缀和,哈希表|
 |535|[最优除法](https://leetcode-cn.com/problems/optimal-division/)|[Go](./535-optimalDivision/535-optimalDivision.go)|中等|数学|
 |537|[复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/)|[Go](./537-complexNumberMultiply/537-complexNumberMultiply.go)|中等||
