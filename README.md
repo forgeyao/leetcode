@@ -121,6 +121,9 @@ LeetCode
 |6008|[统计包含给定前缀的字符串](https://leetcode-cn.com/problems/counting-words-with-a-given-prefix/)|[Go](./6008/6008-prefixCount.go)|简单||
 |6009|[使两字符串互为字母异位词的最少步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)|[Go](./6009/6009-minSteps.go)|中等|哈希表|
 |6010|[完成旅途的最少时间](https://leetcode-cn.com/problems/minimum-time-to-complete-trips/)|[Go](./6010/6010-minimumTime.go)|中等|二分查找|
+|6016|[Excel 表中某个范围内的单元格](https://leetcode-cn.com/problems/cells-in-a-range-on-an-excel-sheet/)|[Go](./6016/6016-cellsInRange.go)|简单||
+|6017|[向数组中追加 K 个整数](https://leetcode-cn.com/problems/append-k-integers-with-minimal-sum/)|[Go](./6017/6017-minimalKSum.go)|中等||
+|6018|[根据描述创建二叉树](https://leetcode-cn.com/problems/create-binary-tree-from-descriptions/)|[Go](./6018/6018-createBinaryTree.go)|中等||
 |6024|[数组中紧跟 key 之后出现最频繁的数字](https://leetcode-cn.com/problems/most-frequent-number-following-key-in-an-array/)|[Go](./6024/6024-mostFrequent.go)|简单||
 
 ### 剑指 Offer
