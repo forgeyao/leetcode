@@ -23,6 +23,12 @@ func maxSubArray1(nums []int) int {
 	}
 	return maxSum
 }
+
+/**
+ * 官方答案，非常简洁
+ * 时间 O(n)
+ * 空间 O(1)
+ */
 func maxSubArray(nums []int) int {
 	max := nums[0]
 	for i := 1; i < len(nums); i++ {
