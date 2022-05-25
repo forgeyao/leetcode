@@ -1,40 +1,26 @@
+// https://leetcode.cn/problems/linked-list-cycle/
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"leetcode/util"
+)
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
+type ListNode = util.ListNode
 
-func hasCycle1(head *ListNode) bool {
-	quick := head
-	slow := head
-	for slow != nil && quick.Next != nil {
-		slow = slow.Next
-		quick = quick.Next.Next
-		if quick == nil {
-			return false
-		}
-		if quick == slow || quick.Next == slow {
-			return true
-		}
-	}
-	return false
-}
-
+/**
+ * 快慢指针
+ * 时间 O(N)
+ * 空间 O(1)
+ */
 func hasCycle(head *ListNode) bool {
-	if head == nil || head.Next == nil {
-		return false
-	}
-
 	slow, quick := head, head
-	for quick.Next != nil && quick.Next.Next != nil {
-		slow = slow.Next
-		quick = quick.Next.Next
+	for quick != nil && quick.Next != nil {
 		if quick == slow {
 			return true
 		}
+		slow = slow.Next
+		quick = quick.Next.Next
 	}
 	return false
 }
