@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Tag |
 |---| ----- | -------- | ---------- | ---------- |
+|3|[无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)|[Go](./3-lengthOfLongestSubstring/3-lengthOfLongestSubstring.go)|中等||
 |5|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[Go](./5-longestPalindrome/5-longestPalindrome.go)|中等|动态规划|
 |7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/)|[Go](./7-reverseInteger/7-reverseInteger.go)|简单||
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number/)|[Go](./9-isPalindrome/9-isPalindrome.go)|简单||
