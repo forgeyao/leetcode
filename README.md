@@ -46,6 +46,7 @@ LeetCode
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|[Go](./136/136-singleNumber.go)|简单|位运算|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[Go](./141-hasCycle/141-hasCycle.go)|简单|双指针|
 |144|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[Go](./144/144-preorderTraversal.go)|简单|二叉树|
+|146|[LRU 缓存](https://leetcode.cn/problems/lru-cache/)|[Go](./146-LRUCache/146-LRUCache.go)|中等|哈希表,双向链表|
 |155|[最小栈](https://leetcode-cn.com/problems/min-stack/)|[Go](./155/155-MinStack.go)|简单|栈|
 |160|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[Go](./160/160-getIntersectionNode.go)|简单|链表,双指针|
 |167|[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|[Go](./167/167-twoSum.go)|简单|双指针|
