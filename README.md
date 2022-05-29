@@ -118,18 +118,18 @@ LeetCode
 |2022|[将一维数组转变成二维数组](https://leetcode.cn/problems/convert-1d-array-into-2d-array/)|[Go](./2001-/2022-construct2DArray/go/2022-construct2DArray.go)|简单||
 |2028|[找出缺失的观测数据](https://leetcode.cn/problems/find-missing-observations/)|[Go](./2001-/2028-missingRolls/go/2028-missingRolls.go)|中等||
 |2034|[股票价格波动](https://leetcode.cn/problems/stock-price-fluctuation/)|[Go](./2001-/2034-StockPrice/go/2034-StockPrice.go)|中等|哈希表, 优先队列|
-|5217|[将杂乱无章的数字排序](https://leetcode.cn/problems/sort-the-jumbled-numbers/)|[Go](./2001-/5217/5217-sortJumbled.go)|中等||
-|5300|[有向无环图中一个节点的所有祖先](https://leetcode.cn/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)|[Go](./2001-/5300/5300-getAncestors.go)|中等||
-|5996|[统计数组中相等且可以被整除的数对](https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/)|[Go](./2001-/5996/5996-countPairs.go)|简单|比赛|
-|5997|[找到和为给定整数的三个连续整数](https://leetcode.cn/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)|[Go](./2001-/5997/5997-sumOfThree.go)|中等|比赛|
-|5998|[拆分成最多数目的偶整数之和](https://leetcode.cn/problems/maximum-split-of-positive-even-integers/)|[Go](./2001-/5998/5998-maximumEvenSplit.go)|中等|比赛|
-|6008|[统计包含给定前缀的字符串](https://leetcode.cn/problems/counting-words-with-a-given-prefix/)|[Go](./2001-/6008/6008-prefixCount.go)|简单||
-|6009|[使两字符串互为字母异位词的最少步骤数](https://leetcode.cn/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)|[Go](./2001-/6009/6009-minSteps.go)|中等|哈希表|
-|6010|[完成旅途的最少时间](https://leetcode.cn/problems/minimum-time-to-complete-trips/)|[Go](./2001-/6010/6010-minimumTime.go)|中等|二分查找|
-|6016|[Excel 表中某个范围内的单元格](https://leetcode.cn/problems/cells-in-a-range-on-an-excel-sheet/)|[Go](./2001-/6016/6016-cellsInRange.go)|简单||
-|6017|[向数组中追加 K 个整数](https://leetcode.cn/problems/append-k-integers-with-minimal-sum/)|[Go](./2001-/6017/6017-minimalKSum.go)|中等||
-|6018|[根据描述创建二叉树](https://leetcode.cn/problems/create-binary-tree-from-descriptions/)|[Go](./2001-/6018/6018-createBinaryTree.go)|中等||
-|6024|[数组中紧跟 key 之后出现最频繁的数字](https://leetcode.cn/problems/most-frequent-number-following-key-in-an-array/)|[Go](./2001-/6024/6024-mostFrequent.go)|简单||
+|2176|[统计数组中相等且可以被整除的数对](https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/)|[Go](./2001-/5996/5996-countPairs.go)|简单|比赛|
+|2177|[找到和为给定整数的三个连续整数](https://leetcode.cn/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)|[Go](./2001-/5997/5997-sumOfThree.go)|中等|比赛|
+|2178|[拆分成最多数目的偶整数之和](https://leetcode.cn/problems/maximum-split-of-positive-even-integers/)|[Go](./2001-/5998/5998-maximumEvenSplit.go)|中等|比赛|
+|2185|[统计包含给定前缀的字符串](https://leetcode.cn/problems/counting-words-with-a-given-prefix/)|[Go](./2001-/6008/6008-prefixCount.go)|简单||
+|2186|[使两字符串互为字母异位词的最少步骤数](https://leetcode.cn/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)|[Go](./2001-/6009/6009-minSteps.go)|中等|哈希表|
+|2187|[完成旅途的最少时间](https://leetcode.cn/problems/minimum-time-to-complete-trips/)|[Go](./2001-/6010/6010-minimumTime.go)|中等|二分查找|
+|2190|[数组中紧跟 key 之后出现最频繁的数字](https://leetcode.cn/problems/most-frequent-number-following-key-in-an-array/)|[Go](./2001-/2190/2190-mostFrequent.go)|简单||
+|2191|[将杂乱无章的数字排序](https://leetcode.cn/problems/sort-the-jumbled-numbers/)|[Go](./2001-/2191/2191-sortJumbled.go)|中等||
+|2192|[有向无环图中一个节点的所有祖先](https://leetcode.cn/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)|[Go](./2001-/2192/2192-getAncestors.go)|中等||
+|2194|[Excel 表中某个范围内的单元格](https://leetcode.cn/problems/cells-in-a-range-on-an-excel-sheet/)|[Go](./2001-/6016/6016-cellsInRange.go)|简单||
+|2195|[向数组中追加 K 个整数](https://leetcode.cn/problems/append-k-integers-with-minimal-sum/)|[Go](./2001-/6017/6017-minimalKSum.go)|中等||
+|2196|[根据描述创建二叉树](https://leetcode.cn/problems/create-binary-tree-from-descriptions/)|[Go](./2001-/6018/6018-createBinaryTree.go)|中等||
 
 ### 剑指 Offer
 
