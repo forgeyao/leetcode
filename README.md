@@ -12,6 +12,7 @@ LeetCode
 |9|[回文数](https://leetcode.cn/problems/palindrome-number/)|[Go](./1-200/9-isPalindrome/9-isPalindrome.go)|简单||
 |13|[罗马数字转整数](https://leetcode.cn/problems/roman-to-integer/)|[Go](./1-200/13-romanToInt/13-romanToInt.go)|简单||
 |14|[最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/)|[Go](./1-200/14-longestCommonPrefix/14-longestCommonPrefix.go)|简单||
+|15|[三数之和](https://leetcode.cn/problems/3sum/)|[Go](./1-200/15-threeSum/15-threeSum.go)|中等|排序|
 |20|[有效的括号](https://leetcode.cn/problems/valid-parentheses/)|[Go](./1-200/20-isValid/20-isValid.go)|简单|栈|
 |21|[合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)|[Go](./1-200/21-mergeTwoLists/21-mergeTwoLists.go)|简单|链表|
 |26|[删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)|[Go](./1-200/26-removeDuplicates/26-removeDuplicates.go)|简单|双指针|
