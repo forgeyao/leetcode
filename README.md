@@ -32,6 +32,7 @@ LeetCode
 |94|[二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/)|[Go](./1-200/94/94-inorderTraversal.go)|简单|二叉树, Morris 遍历算法|
 |100|[相同的树](https://leetcode.cn/problems/same-tree/)|[Go](./1-200/100-isSameTree/100-isSameTree.go)|简单|二叉树|
 |101|[对称二叉树](https://leetcode.cn/problems/symmetric-tree/)|[Go](./1-200/101/101-isSymmetric.go)|简单|二叉树|
+|102|[二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)|[Go](./1-200/102/102-levelOrder.go)|中等|广度优先搜索|
 |104|[二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)|[Go](./1-200/104-maxDepth/104-maxDepth.go)|简单|二叉树|
 |108|[将有序数组转换为二叉搜索树](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/)|[Go](./1-200/108/108-sortedArrayToBST.go)|简单|二叉搜索树|
 |110|[平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/)|[Go](./1-200/110/110-isBalanced.go)|简单|二叉树|
@@ -53,7 +54,7 @@ LeetCode
 |167|[两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)|[Go](./1-200/167/167-twoSum.go)|简单|双指针|
 |168|[Excel表列名称](https://leetcode.cn/problems/excel-sheet-column-title/)|[Go](./1-200/168/168-convertToTitle.go)|简单|N进制|
 |169|[多数元素](https://leetcode.cn/problems/majority-element/)|[Go](./1-200/169/169-majorityElement.go)|简单|哈希,投票算法|
-|200|[岛屿数量](https://leetcode.cn/problems/number-of-islands/)|[Go](./1-200/200-numIslands/200-numIslands.go)|中等|搜索|
+|200|[岛屿数量](https://leetcode.cn/problems/number-of-islands/)|[Go](./1-200/200-numIslands/200-numIslands.go)|中等|广度优先搜索|
 |202|[快乐数](https://leetcode.cn/problems/happy-number/)|[Go](./201-500/202/202-isHappy.go)|简单|哈希,快慢指针,数学|
 |203|[移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)|[Go](./201-500/203/203-removeElements.go)|简单|链表|
 |206|[反转链表](https://leetcode.cn/problems/reverse-linked-list/)|[Go](./201-500/206-reverseList/206-reverseList.go)|简单|链表|
