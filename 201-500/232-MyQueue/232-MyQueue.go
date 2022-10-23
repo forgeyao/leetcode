@@ -52,6 +52,63 @@ func (this *MyQueue) Empty() bool {
 	return this.s1.Empty()
 }
 
+/**
+ * 双栈类似实现
+ */
+type MyQueue2 struct {
+	s1, s2 []int
+}
+
+/**
+ * 时间 O(1)  空间 O(1)
+ */
+func Constructor() MyQueue2 {
+	return MyQueue2{}
+}
+
+/**
+ * 时间 O(1)
+ */
+func (this *MyQueue2) Push(x int) {
+	this.s1 = append(this.s1, x)
+}
+
+func (this *MyQueue2) in2out() {
+	for len(this.s1) > 0 {
+		this.s2 = append(this.s2, this.s1[len(this.s1)-1])
+		this.s1 = this.s1[:len(this.s1)-1]
+	}
+}
+
+/**
+ * 时间 O(1)  空间 O(1)
+ */
+func (this *MyQueue2) Pop() int {
+	if len(this.s2) == 0 {
+		this.in2out()
+	}
+	ret := this.s2[len(this.s2)-1]
+	this.s2 = this.s2[:len(this.s2)-1]
+	return ret
+}
+
+/**
+ * 时间 O(1)  空间 O(1)
+ */
+func (this *MyQueue2) Peek() int {
+	if len(this.s2) == 0 {
+		this.in2out()
+	}
+	return this.s2[len(this.s2)-1]
+}
+
+/**
+ * 时间 O(1)  空间 O(1)
+ */
+func (this *MyQueue2) Empty() bool {
+	return len(this.s1) == 0 && len(this.s2) == 0
+}
+
 func main() {
 	cmds := []string{"MyQueue", "push", "push", "peek", "pop", "empty"}
 	nums := []int{0, 1, 2, 0, 0, 0}
