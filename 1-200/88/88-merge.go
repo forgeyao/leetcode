@@ -4,7 +4,7 @@ package main
 import "fmt"
 
 /**
- * 时间 O(n)
+ * 时间 O(m+n)
  * 空间 O(1)
  */
 func merge(nums1 []int, m int, nums2 []int, n int) {
