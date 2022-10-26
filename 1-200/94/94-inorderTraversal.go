@@ -1,15 +1,17 @@
 // https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"leetcode/util"
+)
 
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
+type TreeNode = util.TreeNode
 
-// 递归
+/** 递归
+ * 时间 O(n), n为节点个数
+ * 空间 O(n), 空间复杂度取决于栈深度
+ */
 func inorderTraversal_recusion(root *TreeNode) []int {
 	if root == nil {
 		return nil
@@ -21,7 +23,10 @@ func inorderTraversal_recusion(root *TreeNode) []int {
 	return n
 }
 
-// 非递归
+/** 非递归
+ * 时间 O(n), n为节点个数
+ * 空间 O(n), 空间复杂度取决于栈深度
+ */
 func inorderTraversal(root *TreeNode) []int {
 	if root == nil {
 		return nil
