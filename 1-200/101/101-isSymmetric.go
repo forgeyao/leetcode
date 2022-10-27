@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/symmetric-tree/
+// https://leetcode.cn/problems/symmetric-tree/
 package main
 
 import (
@@ -8,12 +8,13 @@ import (
 
 type TreeNode = util.TreeNode
 
-// 递归
+/**
+ * 不能用中序遍历，再对比结果。因为结果相同，但区分不了顺序
+ * 递归
+ * 时间 O(n), n是节点个数
+ * 空间 O(n)
+ */
 func isSymmetric(root *TreeNode) bool {
-	if root == nil {
-		return true
-	}
-
 	var isSymmetric_cur func(left *TreeNode, right *TreeNode) bool
 	isSymmetric_cur = func(left *TreeNode, right *TreeNode) bool {
 		if left == nil && right == nil {
