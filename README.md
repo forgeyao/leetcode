@@ -84,6 +84,7 @@ LeetCode
 |535|[最优除法](https://leetcode.cn/problems/optimal-division/)|[Go](./501-1000/535-optimalDivision/535-optimalDivision.go)|中等|数学|
 |537|[复数乘法](https://leetcode.cn/problems/complex-number-multiplication/)|[Go](./501-1000/537-complexNumberMultiply/537-complexNumberMultiply.go)|中等||
 |540|[有序数组中的单一元素](https://leetcode.cn/problems/single-element-in-a-sorted-array/)|[Go](./501-1000/540-singleNonDuplicate/go/540-singleNonDuplicate.go)|中等|二分法|
+|543|[二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)|[Go](./501-1000/543-diameterOfBinaryTree/543-diameterOfBinaryTree.go)|简单|二叉树|
 |598|[范围求和 II](https://leetcode.cn/problems/range-addition-ii/)|[Go](./501-1000/598/598-maxCount.go)|简单||
 |599|[两个列表的最小索引总和](https://leetcode.cn/problems/minimum-index-sum-of-two-lists/)|[Go](./501-1000/599-findRestaurant/599-findRestaurant.go)|简单|哈希表|
 |647|[回文子串](https://leetcode.cn/problems/palindromic-substrings/)|[Go](./501-1000/647-countSubstrings/647-countSubstrings.go)|中等|动态规划||
