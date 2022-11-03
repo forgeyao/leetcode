@@ -1,9 +1,13 @@
-// https://leetcode-cn.com/problems/majority-element/
+// https://leetcode.cn/problems/majority-element/
 package main
 
 import "fmt"
 
-// hash
+/**
+ * hash
+ * 时间 O(n)
+ * 空间 O(n)
+ */
 func majorityElement(nums []int) int {
 	m := make(map[int]int, len(nums)/2+1)
 	for _, val := range nums {
@@ -19,7 +23,11 @@ func majorityElement(nums []int) int {
 	return 0
 }
 
-// Boyer-Moore 投票算法
+/**
+ * Boyer-Moore 投票算法
+ * 时间 O(n)
+ * 空间 O(1)
+ */
 func majorityElement2(nums []int) int {
 	majority, count := nums[0], 1
 	for i := 1; i < len(nums); i++ {
