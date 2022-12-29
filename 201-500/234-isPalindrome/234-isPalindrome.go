@@ -1,12 +1,36 @@
+// https://leetcode.cn/problems/palindrome-linked-list/
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"leetcode/util"
+)
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
+type ListNode = util.ListNode
+
+/**
+ * 常规方法。用数组缓存遍历结果，再做比较
+ * 时间 O(n)
+ * 空间 O(n)
+ */
+func isPalindrome2(head *ListNode) bool {
+	v := []int{}
+	for node := head; node != nil; node = node.Next {
+		v = append(v, node.Val)
+	}
+	for i, j := 0, len(v)-1; i <= j; i, j = i+1, j-1 {
+		if v[i] != v[j] {
+			return false
+		}
+	}
+	return true
 }
 
+/**
+ * 常规方法。用数组缓存遍历结果，再做比较
+ * 时间 O(n)
+ * 空间 O(1)
+ */
 func isPalindrome(head *ListNode) bool {
 	if head == nil || head.Next == nil {
 		return true

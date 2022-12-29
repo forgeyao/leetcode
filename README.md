@@ -66,6 +66,7 @@ LeetCode
 |232|[用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)|[Go](./201-500/232-MyQueue/232-MyQueue.go)|简单|栈, 队列|
 |234|[回文链表](https://leetcode.cn/problems/palindrome-linked-list/)|[Go](./201-500/234-isPalindrome/234-isPalindrome.go)|简单|链表|
 |240|[搜索二维矩阵 II](https://leetcode.cn/problems/search-a-2d-matrix-ii/)|[Go](./201-500/240-searchMatrix/go/240-searchMatrix.go)|中等|查找|
+|242|[有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)|[Go](./201-500/242-isAnagram/242-isAnagram.go)|简单|哈希表|
 |258|[各位相加](https://leetcode.cn/problems/add-digits/)|[Go](./201-500/258-addDigits/258-addDigits.go)|简单|数学|
 |260|[只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/)|[Go](./201-500/260-singleNumber/go/260-singleNumber.go)|中等|位运算|
 |268|[丢失的数字](https://leetcode.cn/problems/missing-number/)|[Go](./201-500/268-missingNumber/go/268-missingNumber.go)|简单|数学|
