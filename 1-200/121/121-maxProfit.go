@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/
+// https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/
 package main
 
 import "fmt"
@@ -34,6 +34,10 @@ func maxProfit2(prices []int) int {
 	return diff
 }
 
+/**
+ * 时间 O(N)
+ * 空间 O(1)
+ */
 func maxProfit(prices []int) int {
 	min, maxDiff := prices[0], 0
 	for i := 1; i < len(prices); i++ {
