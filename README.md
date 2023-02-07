@@ -19,6 +19,7 @@ LeetCode
 |27|[移除元素](https://leetcode.cn/problems/remove-element/)|[Go](./1-200/27/27-removeElement.go)|简单|双指针|
 |28|[实现 strStr()](https://leetcode.cn/problems/implement-strstr/)|[Go](./1-200/28/28-strStr.go)|简单|KMP|
 |29|[两数相除](https://leetcode.cn/problems/divide-two-integers/)|[C++](./29-DivideTwoIntegers/29-DivideTwoIntegers.cpp)|中等||
+|33|[搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array/)|[Go](./1-200/33-search/33-search.go)|中等|二分查找|
 |35|[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)|[Go](./1-200/35/35-searchInsert.go)|简单|二分查找|
 |38|[外观数列](https://leetcode.cn/problems/count-and-say/)|[Go](./1-200/38-countAndSay/go/38-countAndSay.go), [Rust](./38-countAndSay/rust/38-countAndSay.rs)|中等|递归|
 |53|[最大子序和](https://leetcode.cn/problems/maximum-subarray/)|[Go](./1-200/53-maxSubArray/53-maxSubArray.go)|简单|动态规划,分治,线段树|
