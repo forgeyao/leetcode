@@ -92,6 +92,7 @@ LeetCode
 |647|[回文子串](https://leetcode.cn/problems/palindromic-substrings/)|[Go](./501-1000/647-countSubstrings/647-countSubstrings.go)|中等|动态规划||
 |677|[键值映射](https://leetcode.cn/problems/map-sum-pairs/)|[Go](./501-1000/677-MapSum/go/677-MapSum/.go)|中等|哈希表|
 |680|[验证回文字符串 Ⅱ](https://leetcode.cn/problems/valid-palindrome-ii/)|[Go](./501-1000/680-validPalindrome/680-validPalindrome.go)|简单||
+|704|[二分查找](https://leetcode.cn/problems/binary-search/)|[Go](./501-1000/704-search/704-search.go)|简单|二分查找|
 |717|[1比特与2比特字符](https://leetcode.cn/problems/1-bit-and-2-bit-characters/)|[Go](./501-1000/717-isOneBitCharacter/717-isOneBitCharacter.go)|简单||
 |794|[有效的井字游戏](https://leetcode.cn/problems/valid-tic-tac-toe-state/)|[Go](./501-1000/794-validTicTacToe/go/794-validTicTacToe.go)|中等||
 |825|[适龄的朋友](https://leetcode.cn/problems/friends-of-appropriate-ages/)|[Go](./501-1000/825-numFriendRequests/go/825-numFriendRequests.go)|中等|排序,双指针,计数排序,前缀和|
