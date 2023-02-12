@@ -97,6 +97,7 @@ LeetCode
 |794|[有效的井字游戏](https://leetcode.cn/problems/valid-tic-tac-toe-state/)|[Go](./501-1000/794-validTicTacToe/go/794-validTicTacToe.go)|中等||
 |825|[适龄的朋友](https://leetcode.cn/problems/friends-of-appropriate-ages/)|[Go](./501-1000/825-numFriendRequests/go/825-numFriendRequests.go)|中等|排序,双指针,计数排序,前缀和|
 |859|[亲密字符串](https://leetcode.cn/problems/buddy-strings/)|[Go](./501-1000/859-buddyStrings/go/859-buddyStrings.go)|简单||
+|912|[排序数组](https://leetcode.cn/problems/sort-an-array/)|[Go](./501-1000/912-sortArray/912-sortArray.go)|中等|排序|
 |917|[仅仅反转字母](https://leetcode.cn/problems/reverse-only-letters/)|[Go](./501-1000/917-reverseOnlyLetters/917-reverseOnlyLetters.go)|简单|双指针|
 |969|[煎饼排序](https://leetcode.cn/problems/pancake-sorting/)|[Go](./501-1000/969-pancakeSort/969-pancakeSort.go)|中等|排序|
 |1020|[飞地的数量](https://leetcode.cn/problems/number-of-enclaves/)|[Go](./1001-1500/1020-numEnclaves/go/1020-numEnclaves.go)|中等|深度优先搜索, 广度优先搜索|
