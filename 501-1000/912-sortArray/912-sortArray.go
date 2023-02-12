@@ -10,7 +10,7 @@ import (
 /**
  * 快排
  * 时间 O(NlogN)
- * 空间 O(1)
+ * 空间 O(logN)
  */
 func sortArray(nums []int) []int {
 	sortPart(0, len(nums)-1, nums)
