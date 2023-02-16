@@ -1,15 +1,20 @@
-// https://leetcode-cn.com/problems/sqrtx/
+// https://leetcode.cn/problems/sqrtx/
 package main
 
 import "fmt"
 
+/**
+ * 二分查找
+ * 时间 O(logX)
+ * 空间 O(1)
+ */
 func mySqrt(x int) int {
 	left, right := 1, x
 	for mid := left + (right-left)/2; left <= right; mid = left + (right-left)/2 {
-		if mid*mid == x {
+		if mid == x/mid {
 			return mid
 		}
-		if mid*mid > x {
+		if mid > x/mid {
 			right = mid - 1
 		} else {
 			left = mid + 1
