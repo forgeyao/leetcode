@@ -146,6 +146,7 @@ LeetCode
 |---| ----- | -------- | ---------- | ---------- |
 |15|[二进制中1的个数](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)|[Go](./offer/15/15-hammingWeight.go)|简单|位运算|
 |21|[调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|[Go](./offer/21/21-exchange.go)|简单|双指针|
+|22|[链表中倒数第k个节点](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)|[Go](./offer/22/22--getKthFromEnd.go)|简单|快慢指针|
 |38|[字符串的排列](https://leetcode.cn/problems/zi-fu-chuan-de-pai-lie-lcof/)|[Go](./offer/38/38-permutation.go)|中等|递归|
 |42|[连续子数组的最大和](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|[Go](./offer/42/42-maxSubArray.go)|简单|前缀和,动态规划|
 |57|[值和下标之差都在给定的范围内](https://leetcode.cn/problems/7WqeDu/)|[Go](./offer/57/57-containsNearbyAlmostDuplicate.go)|中等|哈希表|
