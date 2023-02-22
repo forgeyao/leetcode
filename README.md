@@ -34,7 +34,7 @@ LeetCode
 |100|[相同的树](https://leetcode.cn/problems/same-tree/)|[Go](./1-200/100-isSameTree/100-isSameTree.go)|简单|二叉树|
 |101|[对称二叉树](https://leetcode.cn/problems/symmetric-tree/)|[Go](./1-200/101/101-isSymmetric.go)|简单|二叉树|
 |102|[二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)|[Go](./1-200/102/102-levelOrder.go)|中等|广度优先搜索|
-|104|[二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)|[Go](./1-200/104-maxDepth/104-maxDepth.go)|简单|二叉树|
+|104|[二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)|[Go](./1-200/104-maxDepth/104-maxDepth.go)|简单|二叉树，遍历|
 |108|[将有序数组转换为二叉搜索树](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/)|[Go](./1-200/108/108-sortedArrayToBST.go)|简单|二叉搜索树|
 |110|[平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/)|[Go](./1-200/110/110-isBalanced.go)|简单|二叉树|
 |111|[二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)|[Go](./1-200/111/111-minDepth.go)|简单|二叉树|
