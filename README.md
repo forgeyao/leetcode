@@ -48,7 +48,7 @@ LeetCode
 |131|[分割回文串](https://leetcode.cn/problems/palindrome-partitioning/)|[Go](./1-200/131-partition/131-partition.go)|中等|递归, 动态规划|
 |136|[只出现一次的数字](https://leetcode.cn/problems/single-number/)|[Go](./1-200/136/136-singleNumber.go)|简单|位运算|
 |141|[环形链表](https://leetcode.cn/problems/linked-list-cycle/)|[Go](./1-200/141-hasCycle/141-hasCycle.go)|简单|双指针|
-|144|[二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)|[Go](./1-200/144/144-preorderTraversal.go)|简单|二叉树|
+|144|[二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)|[Go](./1-200/144/144-preorderTraversal.go)|简单|二叉树,遍历|
 |146|[LRU 缓存](https://leetcode.cn/problems/lru-cache/)|[Go](./1-200/146-LRUCache/146-LRUCache.go)|中等|哈希表,双向链表|
 |155|[最小栈](https://leetcode.cn/problems/min-stack/)|[Go](./1-200/155/155-MinStack.go)|简单|栈|
 |160|[相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)|[Go](./1-200/160/160-getIntersectionNode.go)|简单|链表,双指针|
@@ -146,7 +146,7 @@ LeetCode
 |---| ----- | -------- | ---------- | ---------- |
 |15|[二进制中1的个数](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)|[Go](./offer/15/15-hammingWeight.go)|简单|位运算|
 |21|[调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|[Go](./offer/21/21-exchange.go)|简单|双指针|
-|22|[链表中倒数第k个节点](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)|[Go](./offer/22/22--getKthFromEnd.go)|简单|快慢指针|
+|22|[链表中倒数第k个节点](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)|[Go](./offer/22/22-getKthFromEnd.go)|简单|快慢指针|
 |38|[字符串的排列](https://leetcode.cn/problems/zi-fu-chuan-de-pai-lie-lcof/)|[Go](./offer/38/38-permutation.go)|中等|递归|
 |42|[连续子数组的最大和](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|[Go](./offer/42/42-maxSubArray.go)|简单|前缀和,动态规划|
 |57|[值和下标之差都在给定的范围内](https://leetcode.cn/problems/7WqeDu/)|[Go](./offer/57/57-containsNearbyAlmostDuplicate.go)|中等|哈希表|
