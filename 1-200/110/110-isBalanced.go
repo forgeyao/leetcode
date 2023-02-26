@@ -1,4 +1,4 @@
-//https://leetcode-cn.com/problems/balanced-binary-tree/
+//https://leetcode.cn/problems/balanced-binary-tree/
 package main
 
 import (
@@ -8,7 +8,38 @@ import (
 
 type TreeNode = util.TreeNode
 
+/**
+ * 自顶向下递归
+ * 时间 O(N*N)
+ * 空间 O(N)
+ */
 func isBalanced(root *TreeNode) bool {
+	if root == nil {
+		return true
+	}
+	return abs(height(root.Left)-height(root.Right)) <= 1 && isBalanced(root.Left) && isBalanced(root.Right)
+}
+
+func height(root *TreeNode) int {
+	if root == nil {
+		return 0
+	}
+	l := height(root.Left)
+	r := height(root.Right)
+	if l > r {
+		return l + 1
+	}
+	return r + 1
+}
+
+func abs(x int) int {
+	if x < 0 {
+		return -1 * x
+	}
+	return x
+}
+
+func isBalanced2(root *TreeNode) bool {
 	if root == nil {
 		return true
 	}
@@ -42,10 +73,45 @@ func isBalanced(root *TreeNode) bool {
 	return b
 }
 
+/**
+ * 自底向上递归
+ * 时间 O(N)
+ * 空间 O(N)
+ */
+func isBalanced3(root *TreeNode) bool {
+	return height3(root) >= 0
+}
+func height3(root *TreeNode) int {
+	if root == nil {
+		return 0
+	}
+	l := height3(root.Left)
+	r := height3(root.Right)
+	if l == -1 || r == -1 || abs(l-r) > 1 {
+		return -1
+	}
+	return max(l, r) + 1
+}
+func max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
+}
+
 func main() {
-	n := [][]int{{3, 9, 20, 0, 0, 15, 7}, {1, 2, 2, 3, 3, 0, 0, 4, 4}}
+	n := [][]int{
+		{},
+		{1},
+		{1, 2},
+		{1, 2, 3},
+		{1, 2, 0, 3},
+		{1, 2, 3, 4, 5, 0, 7, 8, 0, 0, 0, 0, 9},
+		{3, 9, 20, 0, 0, 15, 7},
+		{1, 2, 2, 3, 3, 0, 0, 4, 4},
+	}
 	for i := 0; i < len(n); i++ {
 		root := util.CreateTree(n[i])
-		fmt.Println("ret:", isBalanced(root))
+		fmt.Println("ret:", isBalanced(root), isBalanced3(root))
 	}
 }
