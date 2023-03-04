@@ -1,9 +1,16 @@
+// https://leetcode.cn/problems/longest-palindromic-substring/
 package main
 
 import "fmt"
 
-//brute force
-func longestPalindromeOld(s string) string {
+/*
+ * brute force
+ * 思路与 Center extension 相反。先找到最长字符串，判断是不是回文，不是再缩短，继续判断
+ * Center extension 是从短向长扩展
+ * 时间 O(N*N)
+ * 空间 O(1)
+ */
+func longestPalindrome3(s string) string {
 	isPalindrome := func(sub string) bool {
 		for i, j := 0, len(sub)-1; i < j; i, j = i+1, j-1 {
 			if sub[i] != sub[j] {
@@ -24,7 +31,11 @@ func longestPalindromeOld(s string) string {
 	return ""
 }
 
-// Center extension
+/*
+ * Center extension
+ * 时间 O(N*N)
+ * 空间 O(1)
+ */
 func longestPalindrome2(s string) string {
 	i, j := 0, 0
 	for mid := 1; mid < len(s); mid++ {
@@ -52,7 +63,11 @@ func longestPalindrome2(s string) string {
 	return s[i : j+1]
 }
 
-// Dynamic programming
+/*
+ * Dynamic programming
+ * 时间 O(N*N)
+ * 空间 O(N*N)
+ */
 func longestPalindrome(s string) string {
 	a := make([][]bool, len(s))
 
@@ -84,6 +99,6 @@ func longestPalindrome(s string) string {
 func main() {
 	a := []string{"babad", "cbbd", "a", "ac", "bb"}
 	for i := 0; i < len(a); i++ {
-		fmt.Println("ret:", longestPalindrome(a[i]))
+		fmt.Println("ret:", longestPalindrome(a[i]), longestPalindrome2(a[i]), longestPalindrome3(a[i]))
 	}
 }
