@@ -144,6 +144,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Tag |
 |---| ----- | -------- | ---------- | ---------- |
+|9|[用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)|[Go](./offer/9/9-queue.go)|简单|栈,队列|
 |15|[二进制中1的个数](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)|[Go](./offer/15/15-hammingWeight.go)|简单|位运算|
 |21|[调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|[Go](./offer/21/21-exchange.go)|简单|双指针|
 |22|[链表中倒数第k个节点](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)|[Go](./offer/22/22-getKthFromEnd.go)|简单|快慢指针|
