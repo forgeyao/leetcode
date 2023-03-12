@@ -27,7 +27,7 @@ func isPalindrome2(head *ListNode) bool {
 }
 
 /**
- * 常规方法。用数组缓存遍历结果，再做比较
+ * 优化空间。反转后半段链表方便做比较，最后再反转回来
  * 时间 O(n)
  * 空间 O(1)
  */
@@ -36,6 +36,7 @@ func isPalindrome(head *ListNode) bool {
 		return true
 	}
 
+	// 可以用快慢指针，效率更高
 	length := 0
 	next := head
 	for ; next != nil; next = next.Next {
