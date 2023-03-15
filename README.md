@@ -71,6 +71,7 @@ LeetCode
 |258|[各位相加](https://leetcode.cn/problems/add-digits/)|[Go](./201-500/258-addDigits/258-addDigits.go)|简单|数学|
 |260|[只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/)|[Go](./201-500/260-singleNumber/go/260-singleNumber.go)|中等|位运算|
 |268|[丢失的数字](https://leetcode.cn/problems/missing-number/)|[Go](./201-500/268-missingNumber/go/268-missingNumber.go)|简单|数学|
+|283|[移动零](https://leetcode.cn/problems/move-zeroes/)|[Go](./201-500/283-moveZeroes/283-moveZeroes.go)|简单|双指针|
 |367|[有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/)|[Go](./201-500/367-isPerfectSquare/go/367-isPerfectSquare.go)|简单|二分查找|
 |390|[消除游戏](https://leetcode.cn/problems/elimination-game/)|[Go](./201-500/390-lastRemaining/go/390-lastRemaining.go)|中等|数学, 等差数列|
 |409|[最长回文串](https://leetcode.cn/problems/longest-palindrome/)|[Go](./201-500/409-longestPalindrome/409-longestPalindrome.go)|简单||
