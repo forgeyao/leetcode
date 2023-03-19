@@ -62,6 +62,7 @@ LeetCode
 |215|[数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/)|[Go](./201-500/215-findKthLargest/215-findKthLargest.go)|中等|排序,大顶堆, 第K大|
 |217|[存在重复元素](https://leetcode.cn/problems/contains-duplicate/)|[Go](./201-500/217/217-containsDuplicate.go)|简单|哈希表|
 |219|[存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii/)|[Go](./201-500/219/219-containsNearbyDuplicate.go)|简单|哈希表|
+|226|[翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)|[Go](./201-500/226-invertTree/226-invertTree.go)|简单|二叉树,遍历|
 |227|[基本计算器 II](https://leetcode.cn/problems/basic-calculator-ii/)|[Go](./201-500/227-calculate/go/227-calculate.go)|中等|栈|
 |230|[二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/)|[Go](./201-500/230-kthSmallest/go/230-kthSmallest.go)|中等|二叉树, 第K大|
 |232|[用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)|[Go](./201-500/232-MyQueue/232-MyQueue.go)|简单|栈, 队列|
